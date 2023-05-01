@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktradeview"]=self["webpackChunktradeview"]||[]).push([[967],{5967:function(t,e,n){n.r(e),n.d(e,{default:function(){return c}});var u=function(){var t=this;t._self._c;return t._m(0)},r=[function(){var t=this,e=t._self._c;return e("div",[e("p",{staticClass:"text-9xl"},[t._v("Page Not Found")])])}],l={},s=l,a=n(1001),i=(0,a.Z)(s,u,r,!1,null,null,null),c=i.exports}}]);
+//# sourceMappingURL=967.0323b99f.js.map
